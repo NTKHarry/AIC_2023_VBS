@@ -1,0 +1,5 @@
+﻿flickr8k: https://www.kaggle.com/datasets/adityajn105/flickr8k
+Food30VN: https://www.kaggle.com/datasets/quandang/vietnamese-foods
+Image_news: https://studenthcmusedu-my.sharepoint.com/:u:/g/personal/23120150_student_hcmus_edu_vn/EQzVs8EyfPFArOxFgMTM7Q4B4cKz3fvrAsjfEVYjUqN6Xg?e=J9Myq9
+Model: https://studenthcmusedu-my.sharepoint.com/:f:/g/personal/23120150_student_hcmus_edu_vn/EizXDoA1pW5FugsJo9sY4m0BoKMj2eSyMifE038oMfKu_Q?e=F9xiJC
+keyframe: https://studenthcmusedu-my.sharepoint.com/:u:/g/personal/23120150_student_hcmus_edu_vn/EdTcTY2PFsFLn_T56--Cf0QBJ5FM6diYLdeJMMN2mNgAQQ?e=BjHIh6
